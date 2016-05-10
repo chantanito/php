@@ -3,6 +3,7 @@
 <head>
 	<?php $title="Anidación de condicionales SWITCH-CASE"; ?>
 	<title><?php echo $title; ?></title>
+	<!-- Ésto lo agregué en la web de GIT !-->
 </head>
 <body>
 <h1><?php echo $title; ?></h1>
