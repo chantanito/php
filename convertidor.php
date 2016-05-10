@@ -3,6 +3,7 @@
 <head>
 	<?php $title="Convertidor monetario USD/EUR" ?>
 	<title><?php echo $title; ?></title>
+	<!-- Esta linea la estoy agregando epor la web de GitHUb !-->
 </head>
 <body>
 <h1><?php echo $title; ?></h1>
