@@ -3,6 +3,7 @@
 <head>
 	<?php $title="Datos de usuarios persistentes"; ?>
 	<title><?php echo $title; ?></title>
+	<!-- este comentario lo agrego desde la web !-->
 </head>
 <body>
 <h1><?php echo $title; ?></h1>
