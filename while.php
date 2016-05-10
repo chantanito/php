@@ -15,5 +15,6 @@ if (!isset($_POST['submit'])) {
 		echo "El número es inferior a 20<br>";
 		$valor++;
 	}
+	//Espero que vean ésto en GIT
 }
 ?>
