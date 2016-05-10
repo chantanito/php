@@ -3,6 +3,7 @@
 <head>
 	<?php $title="Anidación de condicionales IF-ELSEIF-ELSE"; ?>
 	<title><?php echo $title; ?></title>
+	<!-- Este comentario lo agregué con GIT !-->
 </head>
 <body>
 <h1><?php echo $title; ?></h1>
