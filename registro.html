@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registro de Miembros</title>
+</head>
+<body>
+<h2>Registro de Miebros</h2>
+<form action="registro.php" method="POST" accept-charset="utf-8">
+	Nombre: <br>
+	<input type="text" name="nombre" size="50" placeholder="Escriba su nombre">
+	<br>
+	Direcci&oacute;n: <br>
+	<textarea name="direccion" rows="5" cols="40"></textarea>
+	<br>
+	Edad: <br>
+	<input type="text" name="edad" size="3" value="" placeholder="Edad" alt="Escriba su edad">
+	<br>
+	Profesi&oacute;n:<br>
+	<input type="text" name="profesion" size="50" placeholder="Escriba su profesion">
+	<br>
+	Estado residencial: <br>
+	<input type="radio" name="residencia" value="yes" checked>Residente
+	<input type="radio" name="residencia" value="no">No residente
+	<br><br>
+	<input type="submit" name="submit" value="Enviar">
+</form>
+</body>
+</html>
